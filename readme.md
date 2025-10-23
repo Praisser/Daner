@@ -1,8 +1,3 @@
-
-  # Dataset Cleaner Interface Design
-
-  This is a code bundle for Dataset Cleaner Interface Design. The original project is available at https://www.figma.com/design/zGrZhFqnC5o02nsDZc3eTN/Dataset-Cleaner-Interface-Design.
-
   ## Running the code
 
   Run `npm i` to install the dependencies.
